@@ -40,6 +40,10 @@ namespace DockerApp
                 app.UseHsts();
             }
 
+
+            //jhdgfasjkhgdjkas
+            //dsfhgsdjh
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
