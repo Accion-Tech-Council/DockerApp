@@ -47,6 +47,9 @@ namespace DockerApp
 
             app.UseAuthorization();
 
+            //test Comment
+
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
